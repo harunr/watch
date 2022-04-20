@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="403" height="278" viewBox="0 0 403 278">
+    <defs>
+        <filter id="dc5qnrzj8b" width="134.6%" height="154.7%" x="-19.1%" y="-17.5%" filterUnits="objectBoundingBox">
+            <feOffset dx="-6" dy="21" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.13710118 0"/>
+        </filter>
+        <filter id="wzm2wwicte" width="111.6%" height="115.7%" x="-5.8%" y="-7.8%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+            <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="1"/>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"/>
+            <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="shadowMatrixOuter2"/>
+            </feMerge>
+        </filter>
+        <filter id="aq3icf7mej" width="105.3%" height="324.4%" x="-2.7%" y="-56.1%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+        </filter>
+        <filter id="06yymyf8vl" width="105.3%" height="324.4%" x="-2.7%" y="-56.1%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+        </filter>
+        <filter id="8ocecf06jn" width="105.3%" height="324.4%" x="-2.7%" y="-56.1%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+        </filter>
+        <filter id="rwj383aqkp" width="105.3%" height="324.4%" x="-2.7%" y="-56.1%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+        </filter>
+        <filter id="vu89m479tr" width="113.9%" height="108.8%" x="-6.9%" y="-2.9%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius=".445" result="shadowSpreadOuter1"/>
+            <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feMorphology in="SourceAlpha" radius="1" result="shadowInner"/>
+            <feOffset dy="1" in="shadowInner" result="shadowInner"/>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+            <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.6 0"/>
+        </filter>
+        <filter id="51ph17sy9u" width="210.3%" height="210.1%" x="-55.1%" y="-55.1%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="44.5"/>
+        </filter>
+        <path id="fs2q3g4pkk" d="M33.227 9.803H51.94499999999999V10.803H33.227z"/>
+        <path id="u1876ubi7m" d="M33.227 22.28H51.94499999999999V23.28H33.227z"/>
+        <path id="n71cuwekao" d="M0.269 9.803H18.987V10.803H0.269z"/>
+        <path id="kw8gjzvugq" d="M0.269 22.28H18.987V23.28H0.269z"/>
+        <path id="tyfob2w5ms" d="M19.318 23.87c1.1 5.343 3.725 9.105 6.79 9.105 3.08 0 5.718-3.801 6.807-9.19.344-1.703-1.098-5.347-1.098-7.297 0-1.923 1.447-5.542 1.112-7.225C31.85 3.836 29.202 0 26.108 0c-3.077 0-5.71 3.79-6.803 9.166-.347 1.71 1.093 5.362 1.093 7.322 0 1.982-1.436 5.656-1.08 7.381z"/>
+        <linearGradient id="pchaxy0f4c" x1="19.024%" x2="67.146%" y1="31.002%" y2="72.105%">
+            <stop offset="0%" stop-color="#1B1C3C"/>
+            <stop offset="100%" stop-color="#494963"/>
+        </linearGradient>
+        <linearGradient id="p88dd2ky9g" x1="64.252%" x2="31.54%" y1="22.443%" y2="77.557%">
+            <stop offset="0%" stop-color="#FFEA9E"/>
+            <stop offset="48.588%" stop-color="#C19D39"/>
+            <stop offset="64.685%" stop-color="#D09B21"/>
+            <stop offset="100%" stop-color="#ECCF6B"/>
+        </linearGradient>
+        <linearGradient id="mppfotqhwi" x1="68.959%" x2="39.648%" y1="22.443%" y2="77.557%">
+            <stop offset="0%" stop-color="#FBFBFB"/>
+            <stop offset="100%" stop-color="#D0D0D0"/>
+        </linearGradient>
+        <radialGradient id="1v5r7q3dph" cx="71.175%" cy="23.296%" r="114.528%" fx="71.175%" fy="23.296%" gradientTransform="matrix(-.5085 .7286 -.31418 -.39785 1.147 -.193)">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="0%" stop-color="#FFF" stop-opacity=".905"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="ty99p3scwt" cx="50%" cy="50%" r="52.46%" fx="50%" fy="50%" gradientTransform="matrix(0 .99864 -1 0 1 0)">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+        </radialGradient>
+        <rect id="bmnzaqizua" width="338.203" height="213.781" x="0" y="0" rx="12.46"/>
+        <rect id="j288dxmlxf" width="51.62" height="38.322" x=".297" y="0" rx="5.34"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-368 -3048) translate(-48 2542) translate(67) translate(387 517)">
+                        <mask id="w2g3werzed" fill="#fff">
+                            <use xlink:href="#bmnzaqizua"/>
+                        </mask>
+                        <g>
+                            <use fill="#000" filter="url(#dc5qnrzj8b)" xlink:href="#bmnzaqizua"/>
+                            <use fill="url(#pchaxy0f4c)" xlink:href="#bmnzaqizua"/>
+                        </g>
+                        <g font-family="ProximaNova-Regular, Proxima Nova" font-size="14.92" mask="url(#w2g3werzed)">
+                            <text transform="translate(31.48 158.293)">
+                                <tspan x="0" y="14" fill="#FFF">Linked Bank card</tspan>
+                            </text>
+                        </g>
+                        <g mask="url(#w2g3werzed)">
+                            <g>
+                                <g opacity=".9" transform="translate(33.524 58.82)">
+                                    <use fill="#000" filter="url(#wzm2wwicte)" xlink:href="#j288dxmlxf"/>
+                                    <use fill="url(#p88dd2ky9g)" xlink:href="#j288dxmlxf"/>
+                                    <rect width="50.73" height="37.432" x=".742" y=".445" fill="url(#mppfotqhwi)" stroke="url(#1v5r7q3dph)" stroke-linejoin="square" stroke-width=".89" rx="5.34"/>
+                                </g>
+                                <g opacity=".8">
+                                    <g fill="#000" transform="translate(33.524 58.82) translate(0 2.674)">
+                                        <use filter="url(#aq3icf7mej)" xlink:href="#fs2q3g4pkk"/>
+                                        <use fill-opacity=".8" xlink:href="#fs2q3g4pkk"/>
+                                    </g>
+                                    <g fill="#000" transform="translate(33.524 58.82) translate(0 2.674)">
+                                        <use filter="url(#06yymyf8vl)" xlink:href="#u1876ubi7m"/>
+                                        <use fill-opacity=".8" xlink:href="#u1876ubi7m"/>
+                                    </g>
+                                    <g fill="#000" transform="translate(33.524 58.82) translate(0 2.674)">
+                                        <use filter="url(#8ocecf06jn)" xlink:href="#n71cuwekao"/>
+                                        <use fill-opacity=".8" xlink:href="#n71cuwekao"/>
+                                    </g>
+                                    <g fill="#000" transform="translate(33.524 58.82) translate(0 2.674)">
+                                        <use filter="url(#rwj383aqkp)" xlink:href="#kw8gjzvugq"/>
+                                        <use fill-opacity=".8" xlink:href="#kw8gjzvugq"/>
+                                    </g>
+                                    <g transform="translate(33.524 58.82) translate(0 2.674)">
+                                        <use fill="#000" filter="url(#vu89m479tr)" xlink:href="#tyfob2w5ms"/>
+                                        <use stroke="#000" stroke-opacity=".8" stroke-width=".89" xlink:href="#tyfob2w5ms"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <ellipse cx="272.342" cy="66.841" fill="url(#ty99p3scwt)" filter="url(#51ph17sy9u)" mask="url(#w2g3werzed)" opacity=".3" rx="121.041" ry="121.206"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
